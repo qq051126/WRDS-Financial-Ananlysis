@@ -4,6 +4,7 @@ This project analyzes financial performance of public companies using Python, fo
 #Project Title:Financial Performance Analysis Using WRDS Data (Compustat-Based)
 
 #1. Problem & User
+
 This project aims to analyze and compare the financial performance of selected companies against their industry benchmarks.
 It is designed for students, analysts, or researchers who want to conduct data-driven financial analysis using WRDS.
 
