@@ -5,8 +5,9 @@ This project analyzes financial performance of public companies using Python, fo
 
 #1. Problem & User
 
-This project aims to analyze and compare the financial performance of selected companies against their industry benchmarks.
-It is designed for students, analysts, or researchers who want to conduct data-driven financial analysis using WRDS and who want to use the data to better help with their investment decisions.
+The objective of this project is to develop a data-driven framework to evaluate the financial performance of selected publicly listed companies and compare them with their industry peers. The analysis focuses on profitability, efficiency, and growth to provide a multi-dimensional assessment.
+
+The intended audience includes finance students and junior analysts who are interested in applying Python to real-world financial datasets and who are willing to use the data to better help with their investment decisions.
 
 #2. Data
 	Source: WRDS (Compustat Fundamentals Annual - comp.funda)
