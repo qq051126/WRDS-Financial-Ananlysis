@@ -10,8 +10,8 @@ It is designed for students, analysts, or researchers who want to conduct data-d
 
 #2. Data
 	Source: WRDS (Compustat Fundamentals Annual - comp.funda)
-	Access Date: April 2026
 	
+	Access Date: April 2026
 	Key Fields:
 		at (Total Assets)
 		sale (Revenue)
