@@ -46,6 +46,7 @@ The project follows a structured data pipeline:
 	•	Box plots (distribution analysis)
 
 #4. Key Findings
+
 	•	Company performance varies significantly across time and relative to industry benchmarks
 	•	ROA and ROE provide complementary insights into profitability and efficiency
 	•	Some firms consistently outperform industry averages, indicating competitive advantage
@@ -53,26 +54,29 @@ The project follows a structured data pipeline:
 	•	Visualization helps identify trends and outliers more effectively than raw tables
 
 #5. How to run
+
 1.Install required packages: 
 code: python code:pip install pandas numpy matplotlib wrds
-	2.	Set up WRDS credentials
-	3.	Run the Jupyter Notebook:  JiayiQiu24_Financial_Analysis.ipynb
-	4.	Input:
+2.	Set up WRDS credentials
+3.	Run the Jupyter Notebook:  JiayiQiu24_Financial_Analysis.ipynb
+4.	Input:
 	•	Company tickers (e.g. NKE, LULU, UAA)
 	•	Industry name (e.g. Sportswear & Apparel)
 	•	Time range (e.g. start_date: 2005-11-26  end_date: 2025-11-26 )
 
 #6. Product link
+
 	•	Jupyter Notebook: WRDS_Financial_Analysis.ipynb
 
 #7. Limitations & next steps
+
 Limitations:
 •	Companies in the same industry can be compared (restricted condition)
 	•	Requires WRDS access (restricted database)
 	•	Annual data only (limited frequency)
 	•	Limited set of financial ratios
 
-#8.Next Steps:
+Next Steps:
 	•	Add quarterly data for higher granularity
 	•	Include more financial metrics (e.g., margins, leverage ratios)
 	•	Integrate machine learning for predictive analysis
