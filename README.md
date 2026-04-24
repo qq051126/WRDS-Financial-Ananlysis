@@ -23,6 +23,7 @@ It is designed for students, analysts, or researchers who want to conduct data-d
 #3. Methods (main Python steps)
 
 The project follows a structured data pipeline:
+
 	1.	Data Access
 	•	Connect to WRDS database using Python (wrds package)
 	2.	Data Extraction
