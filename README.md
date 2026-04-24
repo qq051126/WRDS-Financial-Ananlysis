@@ -8,15 +8,15 @@ This project aims to analyze and compare the financial performance of selected c
 It is designed for students, analysts, or researchers who want to conduct data-driven financial analysis using WRDS.
 
 #2. Data
-	•	Source: WRDS (Compustat Fundamentals Annual - comp.funda)
-	•	Access Date: April 2026
-	•	Key Fields:
-	•	at (Total Assets)
-	•	sale (Revenue)
-	•	ni (Net Income)
-	•	ceq (Common Equity)
-	•	datadate (Report Date)
-	•	gvkey, tic (Company identifiers)
+	Source: WRDS (Compustat Fundamentals Annual - comp.funda)
+	Access Date: April 2026
+	Key Fields:
+		at (Total Assets)
+		sale (Revenue)
+		ni (Net Income)
+		ceq (Common Equity)
+		datadate (Report Date)
+		gvkey, tic (Company identifiers)
 
 #3. Methods (main Python steps)
 The project follows a structured data pipeline:
