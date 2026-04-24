@@ -57,6 +57,7 @@ The project follows a structured data pipeline:
 
 1.Install required packages: 
 code: python code:pip install pandas numpy matplotlib wrds
+
 2.	Set up WRDS credentials
 3.	Run the Jupyter Notebook:  JiayiQiu24_Financial_Analysis.ipynb
 4.	Input:
@@ -71,12 +72,14 @@ code: python code:pip install pandas numpy matplotlib wrds
 #7. Limitations & next steps
 
 Limitations:
-•	Companies in the same industry can be compared (restricted condition)
+
+	•	Companies in the same industry can be compared (restricted condition)
 	•	Requires WRDS access (restricted database)
 	•	Annual data only (limited frequency)
 	•	Limited set of financial ratios
 
 Next Steps:
+
 	•	Add quarterly data for higher granularity
 	•	Include more financial metrics (e.g., margins, leverage ratios)
 	•	Integrate machine learning for predictive analysis
