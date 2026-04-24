@@ -55,15 +55,14 @@ The project follows a structured data pipeline:
 
 #5. How to run
 
-1.Install required packages: 
-	code: python code:pip install pandas numpy matplotlib wrds
-2.	Set up WRDS credentials
-3.	Run the Jupyter Notebook:  JiayiQiu24_Financial_Analysis.ipynb
-4.	Input:
-
-	•	Company tickers (e.g. NKE, LULU, UAA)
-	•	Industry name (e.g. Sportswear & Apparel)
-	•	Time range (e.g. start_date: 2005-11-26  end_date: 2025-11-26 )
+	1.Install required packages: 
+		code: python code:pip install pandas numpy matplotlib wrds
+	2.	Set up WRDS credentials
+	3.	Run the Jupyter Notebook:  JiayiQiu24_Financial_Analysis.ipynb
+	4.	Input:
+		•	Company tickers (e.g. NKE, LULU, UAA)
+		•	Industry name (e.g. Sportswear & Apparel)
+		•	Time range (e.g. start_date: 2005-11-26  end_date: 2025-11-26 )
 
 #6. Product link
 
