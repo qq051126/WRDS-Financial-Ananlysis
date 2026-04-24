@@ -9,13 +9,10 @@ It is designed for students, analysts, or researchers who want to conduct data-d
 
 #2. Data
 	Source: WRDS (Compustat Fundamentals Annual - comp.funda)
-	
 	Access Date: April 2026
 	
 	Key Fields:
-	
 		at (Total Assets)
-		
 		sale (Revenue)
 		ni (Net Income)
 		ceq (Common Equity)
@@ -23,6 +20,7 @@ It is designed for students, analysts, or researchers who want to conduct data-d
 		gvkey, tic (Company identifiers)
 
 #3. Methods (main Python steps)
+
 The project follows a structured data pipeline:
 	1.	Data Access
 	•	Connect to WRDS database using Python (wrds package)
