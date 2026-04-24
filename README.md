@@ -66,7 +66,7 @@ The project follows a structured data pipeline:
 
 #6. Product link
 
-	•	Jupyter Notebook: WRDS_Financial_Analysis.ipynb
+	•	Jupyter Notebook: JiayiQiu24_Financial_Analysis.ipynb
 
 #7. Limitations & next steps
 
